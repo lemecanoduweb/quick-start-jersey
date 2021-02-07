@@ -12,7 +12,8 @@ L'api est un CRUD capable de :
 
 ## Cycle  de vie
 
-L'application utilise maven.\
+L'application utilise maven.
+
 Effectuer les tests :
 ```shell
 mvn clean test
