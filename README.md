@@ -10,6 +10,8 @@ L'api est un CRUD capable de :
 - modifier un utilisateur
 - supprimer un utilisateur
 
+Pour plus d'informations, accéder à la [documentation de l'api](https://github.com/lemecanoduweb/quick-start-jersey/wiki/User-api)
+
 ## Cycle  de vie
 
 Effectuer les tests :
