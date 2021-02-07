@@ -10,6 +10,9 @@ L'api est un CRUD capable de :
 - modifier un utilisateur
 - supprimer un utilisateur
 
+## Cycle  de vie
+
+L'application utilise maven.\
 Effectuer les tests :
 ```shell
 mvn clean test
